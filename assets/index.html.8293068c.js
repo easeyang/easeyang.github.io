@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as o,b as t}from"./app.821e2fee.js";const r={},_=t("p",null,"docker docker docker",-1),n=[_];function s(a,d){return c(),o("div",null,n)}var i=e(r,[["render",s],["__file","index.html.vue"]]);export{i as default};
